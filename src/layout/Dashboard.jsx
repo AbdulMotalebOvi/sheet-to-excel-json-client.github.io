@@ -29,7 +29,7 @@ const Dashboard = () => {
                     <li><NavLink to="/dashboard/allusers"><FaUsers></FaUsers> All Users</NavLink></li> */}
                     {/* users dashboard */}
                     <li><NavLink to="/dashboard/usersFeatures"><FaCog></FaCog>Change Info</NavLink></li>
-                    <li><NavLink to="/dashboard/userDataEntry"><FaPlus></FaPlus>Change Info</NavLink></li>
+                    <li><NavLink to="/dashboard/userDataEntry"><FaPlus></FaPlus>Upload Sheet</NavLink></li>
 
                 </ul>
 
